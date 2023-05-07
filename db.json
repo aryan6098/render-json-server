@@ -1,0 +1,25 @@
+{
+    "users": [
+      {
+        "fullName": "Aryan",
+        "mobile": "8200000001",
+        "email": "araj60@gmail.com",
+        "password": "Aryan@1236",
+        "id": 1
+      },
+      {
+        "fullName": "Aryan Raj",
+        "mobile": "8264111525",
+        "email": "dss@gmail.com",
+        "password": "Des@6098",
+        "id": 2
+      },
+      {
+        "fullName": "Des",
+        "mobile": "8976123426",
+        "email": "jon23@gmail.com",
+        "password": "Jon@6098",
+        "id": 3
+      }
+    ]
+  }
