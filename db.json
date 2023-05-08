@@ -24,7 +24,10 @@
   ],
   "contact": [
     {
-      
+      "id": 1,
+      "firstName": "Aryan",
+      "lsatName": "Raj",
+      "status": "active"
     }
   ]
 }
